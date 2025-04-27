@@ -1,0 +1,64 @@
+nav{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(230, 237, 244);
+    width: 100%;
+    height: 70px;
+}
+.navbar1>ul{
+    display:flex;
+ justify-content: space-between;
+  padding-left: 0%;
+  list-style: none;
+  padding-right: 100px;
+  padding-top: 10px;
+}
+button{
+    background-color: rgb(49, 171, 49);
+    color: white;
+    padding: 10px;
+}
+.heading1{
+text-align: center;
+font-size: xx-large;
+text-align: left;
+margin-left: 80px;
+line-height: 20px;
+padding-top: 100px;
+}
+.fro{
+    color: green;
+    font-size: 50px;
+}
+.lesson{
+    display: flex;
+}
+.img1{
+    padding-top: 100px;
+}
+.navbar2{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+.navbar3>ul{
+    list-style: none;
+   
+}
+.navbar3{
+    justify-content: center;
+    justify-items: center;
+}
+.navbar3>ul{
+    margin-top: 10px;
+}
+.mid{
+    text-align: center;
+    font-size: x-large;
+   justify-content: space-around;
+}
+
+
+
+
